@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 4.0)
 set(PROJECT_NAME mav_trajectory_generation)
 project(${PROJECT_NAME})
 

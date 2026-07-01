@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 4.0)
 set(PROJECT_NAME dynamic_trajectory_generator)
 project(${PROJECT_NAME})
 
